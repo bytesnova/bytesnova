@@ -1,6 +1,6 @@
 ![Full-stack Development](https://pbs.twimg.com/profile_banners/1282287680827592706/1689677400/1080x360)
 
-### Hi there 👋, I'm Victor Aderibigbe
+# Hi there 👋, I'm Victor Aderibigbe
 I'm a passionate full-stack web developer with a love for crafting efficient, beautiful, and intuitive digital solutions. My journey in the world of programming began with an insatiable curiosity for technology, and it's evolved into a rewarding career where I continuously explore and master new tools and frameworks.
 
 ## Skills and Experience
