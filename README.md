@@ -1,55 +1,23 @@
-# Hi there, I'm Victor Aderibigbe! 👋
+### Hi there 👋, I'm Victor Aderibigbe
+#### Full-stack Development
+![Full-stack Development](https://pbs.twimg.com/profile_banners/1282287680827592706/1689677400/1080x360)
 
-I'm a passionate full-stack web developer and aspiring software engineer currently pursuing a bachelor's degree in Software Development at Brigham Young University and a diploma certificate in Software Engineering at SQI College of ICT.
+I'm a passionate full-stack web developer with a love for crafting efficient, beautiful, and intuitive digital solutions. My journey in the world of programming began with an insatiable curiosity for technology, and it's evolved into a rewarding career where I continuously explore and master new tools and frameworks.
 
-## Skills & Proficiencies
+Skills: JavaScript / ReactJS /  NodeJS / MongoDB / HTML / CSS / Bootstrap
 
-### Front-end Technologies
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- ReactJs
+- 🌱 I’m currently learning AngularJS /  PHP / SQL 
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: I'm a Techie 
 
-### Backend Technologies
-- NodeJs
-- Express
-- MongoDB
 
-### Learning
-- Angular
-- PHP
-- SQL
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/victoraderibigbe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/vee-jay/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/victorjohn.aderibigbe.7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/bytes_nova//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/bytes_nova)  
 
-## Projects
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/victoraderibigbe)](https://github.com/anuraghazra/github-readme-stats)
 
-### E-Commerce Web Application
-A mini-e-commerce web app built with JavaScript.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/victoraderibigbe&show_icons=true)  
 
-### Todo Application
-A mini-todo application showcasing JavaScript skills.
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/victoraderibigbe)  
 
-### Weather Application
-A weather app demonstrating API integration using JavaScript.
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/victoraderibigbe)  
 
-### Tic-Tac-Toe Game
-Classic game implementation with JavaScript.
-
-### Additional Projects
-Various practice projects using ReactJs and NodeJs.
-
-## Education
-- **Brigham Young University**
-  - Bachelor's Degree in Software Development
-
-- **SQI College of ICT**
-  - Diploma Certificate in Software Engineering
-
-## Connect with Me
-- LinkedIn: [Victor Aderibigbe](https://www.linkedin.com/in/vee-jay/)
-- Portfolio: [Bytesnova Portfolio](https://bytesnova.vercel.app/)
-- Email: aderibigbetoluwani5@gmail.com
-
-Feel free to explore my repositories for more projects and code snippets!
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoraderibigbe)](https://github.com/anuraghazra/github-readme-stats)
