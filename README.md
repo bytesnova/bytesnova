@@ -3,7 +3,11 @@
 ### Hi there 👋, I'm Victor Aderibigbe
 I'm a passionate full-stack web developer with a love for crafting efficient, beautiful, and intuitive digital solutions. My journey in the world of programming began with an insatiable curiosity for technology, and it's evolved into a rewarding career where I continuously explore and master new tools and frameworks.
 
-Skills: JavaScript / ReactJS /  NodeJS / MongoDB / HTML / CSS / Bootstrap
+## Skills and Experience
+* ⚛️ React
+* ⚙️ Node
+* 👨‍💻 MongoDB
+* 💻 HTML, CSS, JavaScript, Bootstrap
 
 - 🌱 I’m currently learning AngularJS /  PHP / SQL 
 - 😄 Pronouns: he/him 
