@@ -52,4 +52,4 @@ Various practice projects using ReactJs and NodeJs.
 
 Feel free to explore my repositories for more projects and code snippets!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytesnova)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoraderibigbe)](https://github.com/anuraghazra/github-readme-stats)
